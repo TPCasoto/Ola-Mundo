@@ -1,4 +1,7 @@
 # Ola-Mundo
-Meu Fluxo do GitHub, repositório para teste
-Quero aprender sobre GitHub, para montar projetos e em WEB.
-Me aperfeiçoar profissionalmente
+Meu Segundo Fluxo do GitHub, repositório para teste
+Para montagem de projeto
+
+Com o Objetivo princial de criar um monitoramento remoto
+
+Quero continuar me aperfeiçoando
