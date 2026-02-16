@@ -4,4 +4,4 @@ Para montagem de projeto
 
 Com o Objetivo princial de criar um monitoramento remoto
 
-Ire me aperfeiçoar profissionalmente
+Quero continuar me aperfeiçoando
